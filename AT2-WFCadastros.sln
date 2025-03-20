@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AT2-WFCadastros", "AT2-WFCadastros\AT2-WFCadastros.csproj", "{9C2FEF42-46FC-4E1A-8D73-170DF19EE26C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2FEF42-46FC-4E1A-8D73-170DF19EE26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2FEF42-46FC-4E1A-8D73-170DF19EE26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2FEF42-46FC-4E1A-8D73-170DF19EE26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2FEF42-46FC-4E1A-8D73-170DF19EE26C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D76986DC-254E-4C27-85AC-441435A388B7}
+	EndGlobalSection
+EndGlobal
